@@ -4,7 +4,7 @@ B.Tech CSE student at Graphic Era University, Dehradun. I build accessible, test
 TypeScript, and machine learning features in Python.
 
 **Now:**
-- Research Intern, Department of Chemical Engineering, IIT Roorkee: an inverse machine learning pipeline that recommends
+- Summer Intern, Department of Chemical Engineering, IIT Roorkee: an inverse machine learning pipeline that recommends
   porous-carbon material properties for a target CO2 uptake ([code](https://github.com/30-Saumya-11/CO2-Material-Generator)).
 - Vice President of GenSHE, a women-in-tech and entrepreneurship community at Graphic Era University.
 
